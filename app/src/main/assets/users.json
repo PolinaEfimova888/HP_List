@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Harry",
+    "sex": "MAN",
+    "phoneNumber": "7(914)752-88-09"
+  },
+  {
+  "name": "Ron",
+  "sex": "MAN",
+  "phoneNumber": "7(914)630-16-90"
+  },
+  {
+    "name": "Draco",
+    "sex": "MAN",
+    "phoneNumber": "7(914)578-33-93"
+  },
+
+  {
+    "name": "Hermione",
+    "sex": "WOMAN",
+    "phoneNumber": "7(914)789-59-92"
+  },
+
+  {
+    "name": "Luna",
+    "sex": "WOMAN",
+    "phoneNumber": "7(914)741-56-28"
+  },
+  {
+    "name": "@@@",
+    "sex": "UNKNOWN",
+    "phoneNumber": "7(914)918-54-03"
+  },
+  {
+    "name": "@@@",
+    "sex": "UNKNOWN",
+    "phoneNumber": "7(914)714-72-00"
+  },
+  {
+    "name": "@@@",
+    "sex": "UNKNOWN",
+    "phoneNumber": "7(914)198-67-46"
+  }
+]
